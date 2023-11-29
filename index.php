@@ -43,10 +43,10 @@ require_once("kaloricounter.php")
             <button><?php $beefpizza->getNama(); ?></button>
             <button><?php $burger->getNama(); ?></button>
         </div>
-    <div id="kaloriarea">
-    <h2 id="kalorilabel">Kalori</h2>
-    <div id="kalorivalue"></div>
-    </div>
+        <div id="kaloriarea">
+            <h2 id="kalorilabel">Kalori</h2>
+            <div id="kalorivalue"></div>
+        </div>
 </div>
 
     
