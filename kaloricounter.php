@@ -17,7 +17,7 @@
     }
 
 
-class Ayam extends Makanan{
+    class Ayam extends Makanan{
 
     }  
     class Tempe extends Makanan{
